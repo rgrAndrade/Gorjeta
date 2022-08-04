@@ -1,5 +1,4 @@
 # Gorjeta
-
 <h2>Projeto de Data Science - Visualizações gráficas, de como a Gorjeta dada por pessoas, enterage em situações diversas, e testes de hipóteses para melhor confirmação<h2/>
 
 <h3>Projeto de Data Science, que analisa as gorjetas dada as pessoas e suas implicações<h3/>
